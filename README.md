@@ -8,3 +8,5 @@ You may use the code in this project in any way you wish that complies with the 
 
 If you want to submit changes to it you can create a pull request with your branch!
 I'll have a look at them!
+
+Also you may be prompted to delete assets when you load the project. Just hit cancel
