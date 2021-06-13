@@ -10,3 +10,7 @@ If you want to submit changes to it you can create a pull request with your bran
 I'll have a look at them!
 
 Also you may be prompted to delete assets when you load the project. Just hit cancel
+
+
+If you like what i do, please consider sending a tip! Anything helps!
+https://ko-fi.com/captainelderly
